@@ -23,7 +23,7 @@ code {
 }
 
 .hover:hover {
-  background-color: #F4CE14;
+  background-color: wheat;
   border-radius: 15px;
 }
 
@@ -36,7 +36,7 @@ code {
 }
 
 .lemon-primary-dark {
-  background-color: #495e57;
+  background-color: darkslategrey;
 }
 
 .lemon-primary-lemon {
@@ -63,12 +63,14 @@ code {
   width: 100px;
   border: none;
   border-radius: 10px;
-  background: #F4CE14;
+  background: wheat;
+  font-weight: 600;
+  color: darkslategrey;
 }
 
 .txt-dec-none {
   text-decoration: none;
-  color: #495e57;
+  color: darkslategray;
 }
 
 .footer-block {
