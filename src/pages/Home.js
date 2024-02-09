@@ -1,28 +1,28 @@
 import Hero from "../components/Hero";
 import Special from "../components/Special";
-import brus from "../images/specials/bruschetta.jpg";
-import greek from "../images/specials/greekSalad.jpg";
-import dessert from "../images/specials/dessert.jpg";
+import jamb from "../images/specials/Jambalaya-IMAGE-3.jpg";
+import lamb from "../images/specials/Barbacoa-Lamb-Chops_Featured.jpg";
+import fish from "../images/specials/chargrilled-fish-with-green-chilli-coriander-and-coconut-relish-70446-1.jpeg";
 import Testimonials from "../components/Testimonials";
 
 const data = [
   {
-    name: "Greek Salad",
-    price: "$8.99",
-    image: greek,
-    description: "Lettuce, peppers, olives and feta cheese, garnished with garlic and croutons.",
+    name: "Jambalaya",
+    price: "$12.99",
+    image: jamb,
+    description: "Shrimp, sausage, scallions, rice, and tomatoe sauce with lemon and garlic.",
   },
   {
-    name: "Bruschetta",
-    price: "$6.99",
-    image: brus,
-    description: "Grilled bread smeared with garlic and seasoned with salt and olive oil.",
+    name: "Grilled White Fish",
+    price: "$11.99",
+    image: fish,
+    description: "Grilled white fish imported daily. Selection changes weekly.",
   },
   {
-    name: "Lemon Special",
-    price: "$4.99",
-    image: dessert,
-    description: "This comes straight from grandma's recipe book.",
+    name: "Citrus Seared Lamb",
+    price: "$14.99",
+    image: lamb,
+    description: "A new spin on a timeless classic. (Fri-Sat Only)",
   },
 ];
 
