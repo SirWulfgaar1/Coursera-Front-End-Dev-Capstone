@@ -7,7 +7,7 @@ const TestimonialsCard = ({ data }) => {
         <img className="test-img" src={data.picture.large} alt="" />
       </div>
       <h5 className="center my-2">{data.name.first}</h5>
-      <p className="pd">&quot;Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, tenetur&quot;</p>
+      <p className="pd">&quot; Nam hendrerit elementum orci, sit amet sagittis justo tincidunt at. &quot;</p>
     </div>
   );
 };

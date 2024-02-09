@@ -21,7 +21,7 @@ const Testimonials = () => {
 
   return (
     <section className="testimonial container py-3 my-3">
-      <h2>Testimonials from our guests!</h2>
+      <h2>Hear about other guest's experience!</h2>
       <div className="row justify-content-center align-items-center pd">
         {users.map((person, index) => {
           return <TestimonialsCard key={index} data={person} />;

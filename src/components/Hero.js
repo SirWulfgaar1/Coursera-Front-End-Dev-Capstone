@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="info white pd pdr-65p">
         <h1 className="lemon-primary-lemon">Little Lemon</h1>
         <h2>Chicago</h2>
-        <p>We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</p>
+        <p>Family owned for 3 generations, with a Mediterranean focus on family recepies and old world charm.</p>
         <Link className="txt-dec-none" to="reserve">
           <button className="reserve-btn">Reserve</button>
         </Link>

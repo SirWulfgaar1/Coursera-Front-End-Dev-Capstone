@@ -27,16 +27,16 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav mx-auto">
             <NavLink className={({ isActive }) => (isActive ? style.navActive : style.navNonActive)} to="/">
-              HOME
+              Home
             </NavLink>
             <NavLink className={({ isActive }) => (isActive ? style.navActive : style.navNonActive)} to="/about">
-              ABOUT
+              About Us
             </NavLink>
             <NavLink className={({ isActive }) => (isActive ? style.navActive : style.navNonActive)} to="/menu">
-              MENU
+              Our Menu
             </NavLink>
             <NavLink className={({ isActive }) => (isActive ? style.navActive : style.navNonActive)} to="/reserve">
-              RESERVE
+              Book a Table
             </NavLink>
           </div>
         </div>

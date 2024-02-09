@@ -1,6 +1,6 @@
 import "./Card.css";
 
-const lorem = "Lorem ipsum dolor, sit amet consectetur adipisicing elit.";
+const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a.";
 
 const Card = ({ data }) => {
   return (

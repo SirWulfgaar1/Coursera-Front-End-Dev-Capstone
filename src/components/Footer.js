@@ -10,38 +10,30 @@ const Footer = () => {
             <img className="footer-logo" src={FooterImg} alt="Little lemon footer pic" />
           </div>
           <div className="col-full col-half col-3rd mb-5 foot-center">
-            <h4>SITEMAP</h4>
-            <Link className="block" to="/">
-              Home
-            </Link>
-            <Link className="block" to="/about">
-              About
-            </Link>
-            <Link className="block" to="/menu">
-              Menu
-            </Link>
-            <Link className="block" to="/reserve">
-              Reserve
-            </Link>
+            <h4>Our Site</h4>
+            <Link className="block" to="/">Home</Link>
+            <Link className="block" to="/about">About Us</Link>
+            <Link className="block" to="/menu">Our Menu</Link>
+            <Link className="block" to="/reserve">Book a Table</Link>
           </div>
           <div className="col-full col-half col-3rd mb-5 foot-center">
-            <h4>CONTACT US</h4>
+            <h4>Get In Touch!</h4>
             <address>
-              123 Where Am I Street
+              44 Testing Street
               <br />
-              No Where, NW 00001
+              Chicago, IL, 60007
             </address>
-            <a className="footer-block" href="tel:+11234567890">
-              123&#41;&nbsp;456&#45;7890
+            <a className="footer-block" href="Phone: +13243546678">
+              908&#41;&nbsp;231&#45;1122
             </a>
             <br />
-            <a className="footer-block" href="mailto: CSR@littlelemon.com">
-              CSR@littlelemon.com
+            <a className="footer-block" href="Our Email: support@littlelemon.org">
+              support@littlelemon.org
             </a>
           </div>
         </div>
         <div className="col-full foot-center">
-          <p>&copy; 2023 Coursera Meta Front-End Developer by Yoon.</p>
+          <p>&copy; 2024 Meta Front End UX/UI Capstone </p>
         </div>
       </footer>
     </>

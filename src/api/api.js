@@ -1,5 +1,3 @@
-// Resource: https://raw.githubusercontent.com/Meta-Front-End-Developer-PC/capstone/master/api.js
-
 const seededRandom = function (seed) {
   var m = 2 ** 35 - 31;
   var a = 185852;
@@ -23,9 +21,5 @@ const fetchAPI = function (date) {
   }
   return result;
 };
-
-// const submitAPI = function (formData) {
-//   return true;
-// };
 
 export { fetchAPI };
