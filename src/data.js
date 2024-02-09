@@ -1,15 +1,15 @@
-import appOne from "../public/220602_DD_Spinach-Artichoke-Dip_140-1.jpg";
-import appTwo from "../public/delish-spinach-puffs-1638982470.jpg";
-import appThree from "../public/air-fryer-calamari-8.jpg";
-import mainOne from "../public/Easy-Homemade-Rice-Pilaf-25.jpg";
-import mainTwo from "../public/Lebanese-Falafel-Recipe.jpg";
-import mainThree from "../public/tandoori-chicken-recipe.jpg";
-import mainFour from "../public/vegetable-stir-fry-noodles-recipe-.jpg";
-import mainFive from "../public/The-Best-Classic-Shepherds-Pie-550.jpg";
-import mainSix from "../public/delish-202206-shecrabsoup-027-1654779978.jpg";
-import sweetOne from "../public/Pineapple-Upside-Down-Cake-Recipe-I-Heart-Naptime-1.jpg";
-import sweetTwo from "../public/Ambrosia-Salad-12-crop.jpg";
-import sweetThree from "../public/Old-School-Easy-Brown-Sugar-Peach-Cobbler-1.jpg";
+import appOne from "./images/menu/220602_DD_Spinach-Artichoke-Dip_140-1.jpg";
+import appTwo from "./images/menu/delish-spinach-puffs-1638982470.jpg";
+import appThree from "./images/menu/air-fryer-calamari-8.jpg";
+import mainOne from "./images/menu/Easy-Homemade-Rice-Pilaf-25.jpg";
+import mainTwo from "./images/menu/Lebanese-Falafel-Recipe.jpg";
+import mainThree from "./images/menu/tandoori-chicken-recipe.jpg";
+import mainFour from "./images/menu/vegetable-stir-fry-noodles-recipe-.jpg";
+import mainFive from "./images/menu/The-Best-Classic-Shepherds-Pie-550.jpg";
+import mainSix from "./images/menu/delish-202206-shecrabsoup-027-1654779978.jpg";
+import sweetOne from "./images/menu/Pineapple-Upside-Down-Cake-Recipe-I-Heart-Naptime-1.jpg";
+import sweetTwo from "./images/menu/Ambrosia-Salad-12-crop.jpg";
+import sweetThree from "./images/menu/Old-School-Easy-Brown-Sugar-Peach-Cobbler-1.jpg";
 
 const menu = [
   {
