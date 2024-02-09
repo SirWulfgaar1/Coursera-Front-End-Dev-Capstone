@@ -1,15 +1,15 @@
-import appOne from "./images/menu/a_crabartichoke.png";
-import appTwo from "./images/menu/a_spinachballs.png";
-import appThree from "./images/menu/a_vegannachos.png";
-import mainOne from "./images/menu/m_couscous.png";
-import mainTwo from "./images/menu/m_mezze.png";
-import mainThree from "./images/menu/m_paella.png";
-import mainFour from "./images/menu/m_ratatouille.png";
-import mainFive from "./images/menu/m_risotto.png";
-import mainSix from "./images/menu/m_shakshuka.png";
-import sweetOne from "./images/menu/d_crema_catalana.png";
-import sweetTwo from "./images/menu/d_galaktoboureko.png";
-import sweetThree from "./images/menu/d_namoura.png";
+import appOne from "../public/220602_DD_Spinach-Artichoke-Dip_140-1.jpg";
+import appTwo from "../public/delish-spinach-puffs-1638982470.jpg";
+import appThree from "../public/air-fryer-calamari-8.jpg";
+import mainOne from "../public/Easy-Homemade-Rice-Pilaf-25.jpg";
+import mainTwo from "../public/Lebanese-Falafel-Recipe.jpg";
+import mainThree from "../public/tandoori-chicken-recipe.jpg";
+import mainFour from "../public/vegetable-stir-fry-noodles-recipe-.jpg";
+import mainFive from "../public/The-Best-Classic-Shepherds-Pie-550.jpg";
+import mainSix from "../public/delish-202206-shecrabsoup-027-1654779978.jpg";
+import sweetOne from "../public/Pineapple-Upside-Down-Cake-Recipe-I-Heart-Naptime-1.jpg";
+import sweetTwo from "../public/Ambrosia-Salad-12-crop.jpg";
+import sweetThree from "../public/Old-School-Easy-Brown-Sugar-Peach-Cobbler-1.jpg";
 
 const menu = [
   {
@@ -44,7 +44,7 @@ const menu = [
   },
   {
     type: "main",
-    name: "Tadoori Chicken",
+    name: "Tandoori Chicken",
     image: mainThree,
     price: "$14.99",
   },
@@ -74,13 +74,13 @@ const menu = [
   },
   {
     type: "dessert",
-    name: "Galaktoboureko",
+    name: "Ambrosia",
     image: sweetTwo,
     price: "$1.99",
   },
   {
     type: "dessert",
-    name: "Nectarine Salad",
+    name: "Peach Cobbler",
     image: sweetThree,
     price: "$2.99",
   },
