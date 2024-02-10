@@ -6,17 +6,17 @@ const Footer = () => {
     <>
       <footer className="pd lemon-primary-dark white row">
         <div className="row">
-          <div className="col-full col-half col-3rd mb-5 foot-center">
+          <div className="col-full col-half col-3rd foot-center">
             <img className="footer-logo" src={FooterImg} alt="Little lemon footer pic" />
           </div>
-          <div className="col-full col-half col-3rd mb-5 foot-center">
+          <div className="col-full col-half col-3rd foot-center">
             <h4>Our Site</h4>
             <Link className="block" to="/">Home</Link>
             <Link className="block" to="/about">About Us</Link>
             <Link className="block" to="/menu">Our Menu</Link>
             <Link className="block" to="/reserve">Book a Table</Link>
           </div>
-          <div className="col-full col-half col-3rd mb-5 foot-center">
+          <div className="col-full col-half col-3rd foot-center">
             <h4>Get In Touch!</h4>
             <address>
               44 Testing Street
